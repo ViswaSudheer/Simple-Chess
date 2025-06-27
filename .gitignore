@@ -1,0 +1,16 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+bin/
+
+# Compiled Java files
+*.class
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Dependency directories
+target/
+*.jar
